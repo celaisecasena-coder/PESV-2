@@ -1,0 +1,8 @@
+{
+  "name": "PESV Manager - Resolución 40595 de 2022",
+  "description": "Sistema de gestión y auditoría para el ciclo PHVA del Plan Estratégico de Seguridad Vial (PESV) según Resolución 40595 de 2022 para empresas de nivel básico, estándar y avanzado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
